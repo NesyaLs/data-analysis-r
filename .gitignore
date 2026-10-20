@@ -1,0 +1,22 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Datasets not redistributed (see descriptive-statistics/README section)
+descriptive-statistics/Intima_Media.txt
+descriptive-statistics/nutriage.txt
+descriptive-statistics/nutriage.rda
+
+# Python
+.venv/
+venv*/
+__pycache__/
+.ipynb_checkpoints/
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
+figures_raw/
